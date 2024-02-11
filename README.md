@@ -11,8 +11,6 @@
 ---
 ## Editor Tool for Level Design
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)
-
 [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)
 
 <br>
