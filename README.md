@@ -11,6 +11,8 @@ Solo Development in progress | Demo out now on Steam
 First-Person Horror Game with Physics-based Gameplay <br>
 ![Physics-Based Gameplay](/images/Andesia_Physics.gif)
 
+https://github.com/ZiadRbai/porfolio/assets/73894693/79a4f15f-d251-496f-b705-7f1082fdbcd5
+
 <br>
 
 - Physics system supports multiple gravitational objects, spinning objects, gradual gravity dependant on distance to center etc...
