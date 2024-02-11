@@ -2,7 +2,7 @@
 My Gamedev Portfolio
 # Recent Work
 ## The Andesia Project
-![The Andesia Project Image](/images/Andesia_400)
+![The Andesia Project Image](/images/Andesia_400.png)
 [The Andesia Project](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 
 
