@@ -41,9 +41,11 @@
 ---
 ## Game Jams & Prototypes
 
-[![Foo](/images/DiceStamp.png)](https://ziadrbai.itch.io/moment)
-[![Foo](/images/MeowEscape.png)](https://ziadrbai.itch.io/moment)
-[![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/moment)
+[![Foo](/images/DiceStamp.png)](https://maruwiiw.itch.io/dice-stamp)
+<br>
+[![Foo](/images/MeowEscape.png)](https://ziadrbai.itch.io/meow-escape)
+<br>
+[![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/my-friends-game)
 
 
 
