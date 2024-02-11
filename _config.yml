@@ -1,4 +1,6 @@
 name: Ziad Rbai
-title: Portfolio | Ziad Rbai
-description: GameDev portfolio for Ziad Rbai
+title: Ziad Rbai
+description: Game Developer
 theme: jekyll-theme-slate
+github:
+  is_project_page: false
