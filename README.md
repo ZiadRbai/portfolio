@@ -4,8 +4,21 @@
 <br>
 
 ## The Andesia Project
+Solo Development in progress | Demo out now on Steam
 
-[![Foo](/images/Andesia_184.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
+[![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
+
+First-Person Horror Game with Physics-based Gameplay <br>
+![Physics-Based Gameplay](/images/Andesia_Physics.gif)
+
+<br>Physics system supports multiple gravitational objects, spinning objects, gradual gravity dependant on distance to center etc...
+<br>Game is Optimized to run on low end devices even with 1000s of rigidbodies moving around.
+<br>Knowledge based puzzles to solve with gameplay, no fighting, exploration à la Outer Wilds.
+<br>In-depth story, mystery to piece together.
+<br>Responsible for everything, including Programming, Game Design, Audio Creation and Design(FMOD), 3d Modeling(Blender), Texturing, UI, Writing, etc...
+
+<br>
+
 
 <br>
 
