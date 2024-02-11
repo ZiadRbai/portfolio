@@ -11,11 +11,11 @@ Solo Development in progress | Demo out now on Steam
 First-Person Horror Game with Physics-based Gameplay <br>
 ![Physics-Based Gameplay](/images/Andesia_Physics.gif)
 
-<br>Physics system supports multiple gravitational objects, spinning objects, gradual gravity dependant on distance to center etc...
-<br>Game is Optimized to run on low end devices even with 1000s of rigidbodies moving around.
-<br>Knowledge based puzzles to solve with gameplay, no fighting, exploration à la Outer Wilds.
-<br>In-depth story, mystery to piece together.
-<br>Responsible for everything, including Programming, Game Design, Audio Creation and Design(FMOD), 3d Modeling(Blender), Texturing, UI, Writing, etc...
+<br>- Physics system supports multiple gravitational objects, spinning objects, gradual gravity dependant on distance to center etc...
+<br>- Game is Optimized to run on low end devices even with 1000s of rigidbodies moving around.
+<br>- Knowledge based puzzles to solve with gameplay, no fighting, exploration à la Outer Wilds.
+<br>- In-depth story, mystery to piece together.
+<br>- Responsible for everything, including Programming, Game Design, Audio Creation and Design(FMOD), 3d Modeling(Blender), Texturing, UI, Writing, etc...
 
 <br>
 
