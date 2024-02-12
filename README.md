@@ -6,7 +6,7 @@
 ## The Andesia Project
 Current Project | [Demo out now on Steam](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 
-![lol](https://github.com/ZiadRbai/porfolio/assets/73894693/54f04ef4-c3a1-4750-b6d1-72bcdfb7e1ae)
+![The Andesia Project](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 
 <br>
 
