@@ -17,7 +17,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <video controls="" width="640" height="360"  loop="" autoplay="">
 <source src="images/Gameplay Trailer 2.mp4 " type="video/mp4">
 </video>
-
+**GAMEPLAY TRAILER**
 
 
 <br>
