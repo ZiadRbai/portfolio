@@ -4,9 +4,8 @@
 <br>
 
 ## The Andesia Project
-Current Project | [Demo out now on Steam](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
-
 [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
+Current Project | [Demo out now on Steam](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 <br>
 - First-Person Space Horror Game with Physics-based Gameplay and PS1 style graphics.
 <br>
