@@ -75,7 +75,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ## Game for INTELLCAP
 
-3D Project (unable to show)
+**3D Project (unable to show)**
 
 **What I did:** Gameplay Programmer under Lead Programmer.
 
@@ -89,10 +89,8 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 ## Moment 
 
 [![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment)
-
-<br>
 Traversal and object avoidance, with synchronized music, 5 stages.
-
+<br>30min experience.
 **What I did:** Game Programming, Game Design
 
 **Studio:** High School Project <br>
@@ -117,7 +115,7 @@ Traversal and object avoidance, with synchronized music, 5 stages.
 <br>
 # CONTACT
 Feel free to message me on:<br> [ziadrbai@gmail.com](mailto:ziadrbai@gmail.com) <br>
-Related platforms:<br>
+<br>Related platforms:<br>
 [itch.io](https://ziadrbai.itch.io/) <br>
 [Steam](https://store.steampowered.com/search/?sort_by=_ASC&supportedlang=english&developer=Ziad+Rbai)<br>
 [Github](https://github.com/ZiadRbai)
