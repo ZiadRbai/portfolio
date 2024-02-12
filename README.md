@@ -27,6 +27,7 @@ Studio: Self-Published
 Platforms: PC
 Team size: 1
 Engine & Tools: Unity, Visual Studio,Blender, FMOD, Reason, Aseprite
+Year: 2024
 
 ## Editor Tool for Level Design
 
@@ -53,7 +54,8 @@ What I did: Built and shipped a game on a two-person team. Wrote all code engine
 Studio: TeamWiiw <br>
 Platforms: WebGL, Any browser <br>
 Team size: 2 <br>
-Engine & Tools: Unity, Photon API, Visual Studio 
+Engine & Tools: Unity, Photon API, Visual Studio <br>
+Year: 2023
 
 ## Slap Cook
 
@@ -70,11 +72,19 @@ Studio: Kokoro Games <br>
 Platforms: Mobile, Android <br>
 Team size: 10+ <br>
 Engine & Tools: Unity, Visual Studio <br>
+Year: 2022
 
 ## Game for INTELLCAP
 
-3D Project Under NDA
+3D Project (unable to show)
 
+What I did: Gameplay Programmer under Lead Programmer.
+
+Studio: INTELLCAP <br>
+Platforms: PC
+Team size: 15+ <br>
+Engine & Tools: Unity, Visual Studio <br>
+Year: 2021
 <br>
 
 ## Moment 
@@ -82,23 +92,42 @@ Engine & Tools: Unity, Visual Studio <br>
 [![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment)
 
 <br>
+First Game I've ever made. :D
+Traversal and object avoidance, 5 stages.
+
+What I did: Game Programming, Game Design
+
+Studio: High School Project <br>
+Platforms: PC
+Team size: 2 <br>
+Engine & Tools: Unity, Visual Studio <br>
+Year: 2017
+
 ---
 # Game Jams & Prototypes
-
+### Game Mechanic study on Unreal Engine
 [![Foo](/images/Raze.png)](https://ziadrbai.itch.io/raze-satchel)
 <br>
 <br>
 <br>
-
+### GMTK 48H Game Jam 2022 Entry 
 [![Foo](/images/DiceStamp.png)](https://maruwiiw.itch.io/dice-stamp)
 <br>
 <br>
 <br>
+### MiniJam 72H Game Jam 2022 Entry
 [![Foo](/images/MeowEscape.png)](https://ziadrbai.itch.io/meow-escape)
 <br>
 <br>
 <br>
+### Mini Jame Gam 48H 2022 Entry
 [![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/my-friends-game)
+<br>
+# CONTACT
+Feel free to message me on: [ziadrbai@gmail.com](mailto:ziadrbai@gmail.com) <br>
+[itch.io](https://ziadrbai.itch.io/) <br>
+[Steam](https://store.steampowered.com/search/?sort_by=_ASC&supportedlang=english&developer=Ziad+Rbai)<br>
+[Github](https://github.com/ZiadRbai)
 
 
 
