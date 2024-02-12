@@ -33,6 +33,7 @@ Engine & Tools: Unity, Visual Studio,Blender, FMOD, Reason, Aseprite
 [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)
 
 <br>
+- Editor Tool that eases object placement on planet like objects.
 
 ![224733608-1ef22a40-e318-48d6-be9c-c8951da7131e](https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec)
 
@@ -42,16 +43,14 @@ Engine & Tools: Unity, Visual Studio,Blender, FMOD, Reason, Aseprite
 [![Foo](/images/SecretAssignment.png)](https://teamwiiw.itch.io/secret-assignment)
 <br>
 
-- Room based lobbies.Up to 9 players. Room Host can modify settings.
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/4b16d71b-b129-45ff-b15d-ea973df22d33)
+- Multiplayer Party game on browser.
+- Mafia/Among Us like Gameplay. Role Assignement, Voting on the odd one out.<br>
+![SecretGif](https://github.com/ZiadRbai/porfolio/assets/73894693/cdd5a6ba-c924-4a8a-b0db-b9b4d5616ff1) <br>
 
+- Room based lobbies.Up to 9 players. Room Host can modify settings.<br> 
+- Each Player given a role and a word. Spy has to guess the word.<br>
+- Voting system. <br>
 
-- Each Player given a role and a word. Spy has to guess the word.
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/db459195-2639-458a-83f1-4976b7c01b6a)
-
-
-- Voting system.
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/2282b4b6-407c-4a46-9c9c-f94b76c546cd)
 
 <br>
 
@@ -64,9 +63,8 @@ Engine & Tools: Unity, Photon API, Visual Studio
 
 ## Slap Cook
 
-[![Foo](/images/SlapCook.png)](https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook)
+[![Foo](/images/SlapCook.png)](https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook) <br>
 
-<br>
 - Hyper Casual Game. 
 - Simple controls: One Finger, left to right.
 - Level-based progression. Main Levels + 3 mini games in between levels.
