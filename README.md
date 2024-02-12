@@ -8,7 +8,7 @@
 
 Current Active Project | [**Demo out now on Steam**](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 
-<video controls="" width="80%"  loop="" autoplay="">
+<video controls="" width="100%"  loop="" autoplay="">
 <source src="images/Gameplay Trailer 2.mp4 " type="video/mp4">
 </video>
 **GAMEPLAY TRAILER**
@@ -43,6 +43,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ![224733608-1ef22a40-e318-48d6-be9c-c8951da7131e](https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec)
 
+<img src="https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec" alt="Demonstration" width="100%"/>
 
 ## Secret Assignment
 
