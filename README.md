@@ -107,17 +107,11 @@ Traversal and object avoidance, 5 stages.
 ### Game Mechanic study on Unreal Engine
 [![Foo](/images/Raze.png)](https://ziadrbai.itch.io/raze-satchel)
 <br>
-<br>
-<br>
 ### GMTK 48H Game Jam 2022 Entry 
 [![Foo](/images/DiceStamp.png)](https://maruwiiw.itch.io/dice-stamp)
 <br>
-<br>
-<br>
 ### MiniJam 72H Game Jam 2022 Entry
 [![Foo](/images/MeowEscape.png)](https://ziadrbai.itch.io/meow-escape)
-<br>
-<br>
 <br>
 ### Mini Jame Gam 48H 2022 Entry
 [![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/my-friends-game)
