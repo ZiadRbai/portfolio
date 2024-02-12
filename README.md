@@ -44,8 +44,6 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <img src="https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec" alt="Demonstration" width="100%"/>
 
 ## Secret Assignment
-
-<!---[![Foo](https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984)](https://teamwiiw.itch.io/secret-assignment)-->
 <a href= "https://teamwiiw.itch.io/secret-assignment">
 <img src="https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984" alt="Secret Assignment Thumbnail" width="300"/>
 </a>
