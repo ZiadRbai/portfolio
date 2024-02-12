@@ -12,7 +12,13 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <br>
 - Physics system supports multiple gravitational objects, spinning objects, gradual gravity dependant on distance to center etc...
 
-https://github.com/ZiadRbai/porfolio/assets/73894693/57bf3ff6-0f2a-4516-a723-4a1c6e0894b2
+
+
+https://github.com/ZiadRbai/porfolio/assets/73894693/ec675b9e-2beb-427d-887f-167494d3cc4c
+
+
+
+
 <br>
 - Optimized to run high fps (at least 60 even on low end integrated gpu PCs), no performance issues reported.
 <br>
