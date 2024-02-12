@@ -27,7 +27,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Platforms:** PC <br>
 **Team size:** 1 <br>
 **Engine & Tools:** Unity, Visual Studio,Blender, FMOD, Reason, Aseprite <br>
-**Year:** 2024 <br>
+**Year:** 2023-Present <br>
 
 ## Editor Tool for Level Design
 
@@ -91,8 +91,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 [![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment)
 
 <br>
-First Game I've ever made. :D
-Traversal and object avoidance, 5 stages.
+Traversal and object avoidance, with synchronized music, 5 stages.
 
 **What I did:** Game Programming, Game Design
 
