@@ -14,8 +14,9 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 
 
-https://github.com/ZiadRbai/porfolio/assets/73894693/ec675b9e-2beb-427d-887f-167494d3cc4c
-
+<video controls="" width="1080" height="720" muted="" loop="" autoplay="">
+<source src="videos/Gameplay Trailer 2.mp4 " type="video/mp4">
+</video>
 
 
 
