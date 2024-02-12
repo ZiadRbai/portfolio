@@ -4,12 +4,9 @@
 <br>
 
 ## The Andesia Project
-[![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
-<br>
+<!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
+
 Current Active Project | [**Demo out now on Steam**](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
-
-
-
 
 <video controls="" width="640" height="360"  loop="" autoplay="">
 <source src="images/Gameplay Trailer 2.mp4 " type="video/mp4">
