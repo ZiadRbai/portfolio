@@ -10,6 +10,7 @@ Current Project | [Demo out now on Steam](https://store.steampowered.com/app/270
 
 - First-Person Space Horror Game with Physics-based Gameplay and PsX graphics.
 <br>
+
 ![Physics-Based Gameplay](/images/Andesia_Physics.gif)
 
 - Physics system supports multiple gravitational objects, spinning objects, gradual gravity dependant on distance to center etc...
