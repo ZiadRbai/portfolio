@@ -89,9 +89,10 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 ## Moment 
 
 [![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment)
-<br>Traversal and object avoidance, with synchronized music, 5 stages.
-<br>30min experience.<br>
-**What I did:** Game Programming, Game Design
+<br>
+- Traversal and object avoidance, with synchronized music, 5 stages.
+- 30min experience.<br>
+<br>**What I did:** Game Programming, Game Design
 
 **Studio:** High School Project <br>
 **Platforms:** PC
