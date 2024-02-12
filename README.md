@@ -108,21 +108,27 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2017
 
----
+
 # Game Jams & Prototypes
+---
 ### Game Mechanic study on Unreal Engine
+---
 [![Foo](/images/Raze.png)](https://ziadrbai.itch.io/raze-satchel)
 <br>
 ### GMTK 48H Game Jam 2022 Entry 
+---
 [![Foo](/images/DiceStamp.png)](https://maruwiiw.itch.io/dice-stamp)
 <br>
 ### MiniJam 72H Game Jam 2022 Entry
+---
 [![Foo](/images/MeowEscape.png)](https://ziadrbai.itch.io/meow-escape)
 <br>
 ### Mini Jame Gam 48H 2022 Entry
+---
 [![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/my-friends-game)
 <br>
 # CONTACT
+---
 Feel free to message me on:<br> [ziadrbai@gmail.com](mailto:ziadrbai@gmail.com) <br>
 <br>Related platforms:<br>
 [itch.io](https://ziadrbai.itch.io/) <br>
