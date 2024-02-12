@@ -1,9 +1,11 @@
+
 # Portfolio
 ---
 <br>
 <br>
 
 ## The Andesia Project
+<!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
 Current Active Project | [**Demo out now on Steam**](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 
@@ -40,16 +42,14 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 - Editor Tool that eases object placement on planet like objects.
 
+
+
 <img src="https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec" alt="Demonstration" width="100%"/>
 
 ## Secret Assignment
 
-
-<a href= "https://teamwiiw.itch.io/secret-assignment">
-<img src="https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984" alt="Secret Assignment Thumbnail" width="300"/>
-</a>
-
-
+[![Foo](https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984)](https://teamwiiw.itch.io/secret-assignment)
+<br>
 - Multiplayer Party game on browser.
 - Mafia/Among Us like Gameplay. Role Assignement, Voting on the odd one out.<br>
 - Room based lobbies.Up to 9 players. Room Host can modify settings.<br> 
@@ -66,11 +66,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ## Slap Cook
 
-
-<a href= "https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook">
-<img src="/images/SlapCook.png" alt="Slap Cook Thumbnail" width="300"/>
-</a>
-
+[![Foo](/images/SlapCook.png)](https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook) <br>
 
 - Hyper Casual Game. 
 - Simple controls: One Finger, left to right.
@@ -100,13 +96,8 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ## Moment 
 
-
-<a href= "https://ziadrbai.itch.io/moment">
-<img src="/images/Moment.png" alt="Moment Thumbnail" width="300"/>
-</a>
-
-
-<br><br>
+[![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment)
+<br>
 - Traversal and object avoidance, with synchronized music, 5 stages.
 - 30min experience.
 <br><br>
@@ -120,46 +111,27 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ---
 # Game Jams & Prototypes
-### Game Mechanic study on Unreal Engine <br>
-
-
-<a href= "https://ziadrbai.itch.io/raze-satchel">
-<img src="/images/Raze.png" alt="Raze Thumbnail" width="300"/>
-</a>
-
-
+### Game Mechanic study on Unreal Engine
+[![Foo](/images/Raze.png)](https://ziadrbai.itch.io/raze-satchel)
 <br>
-### GMTK 48H Game Jam 2022 Entry <br>
-
-
-<a href= "https://maruwiiw.itch.io/dice-stamp">
-<img src="/images/DiceStamp.png" alt="Dice Stamp Thumbnail" width="300"/>
-</a>
-
-
+### GMTK 48H Game Jam 2022 Entry 
+[![Foo](/images/DiceStamp.png)](https://maruwiiw.itch.io/dice-stamp)
 <br>
-### MiniJam 72H Game Jam 2022 Entry <br>
-
-
-<a href= "https://ziadrbai.itch.io/meow-escape">
-<img src="/images/MeowEscape.png" alt="Meow Excape Thumbnail" width="300"/>
-</a>
-
+### MiniJam 72H Game Jam 2022 Entry
+[![Foo](/images/MeowEscape.png)](https://ziadrbai.itch.io/meow-escape)
 <br>
-### Mini Jame Gam 48H 2022 Entry <br>
-
-<a href= "https://ziadrbai.itch.io/my-friends-game">
-<img src="/images/MyFriendsGame.png" alt="My Friend's Game Thumbnail" width="300"/>
-</a>
-
+### Mini Jame Gam 48H 2022 Entry
+[![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/my-friends-game)
 <br>
-
 # CONTACT
 Feel free to message me on:<br> [ziadrbai@gmail.com](mailto:ziadrbai@gmail.com) <br>
 <br>Related platforms:<br>
 [itch.io](https://ziadrbai.itch.io/) <br>
 [Steam](https://store.steampowered.com/search/?sort_by=_ASC&supportedlang=english&developer=Ziad+Rbai)<br>
 [Github](https://github.com/ZiadRbai)
+
+
+
 
 
 
