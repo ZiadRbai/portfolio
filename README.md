@@ -26,7 +26,7 @@ Current Project | [Demo out now on Steam](https://store.steampowered.com/app/270
 Studio: Self-Published
 Platforms: PC
 Team size: 1
-Engine & Tools: Unity, Blender, FMOD, Reason, Aseprite
+Engine & Tools: Unity, Visual Studio,Blender, FMOD, Reason, Aseprite
 
 ## Editor Tool for Level Design
 
@@ -50,31 +50,34 @@ Engine & Tools: Unity, Blender, FMOD, Reason, Aseprite
 ![image](https://github.com/ZiadRbai/porfolio/assets/73894693/db459195-2639-458a-83f1-4976b7c01b6a)
 
 
-- Voting system
+- Voting system.
 ![image](https://github.com/ZiadRbai/porfolio/assets/73894693/2282b4b6-407c-4a46-9c9c-f94b76c546cd)
 
 <br>
 
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/4b16d71b-b129-45ff-b15d-ea973df22d33)
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/db459195-2639-458a-83f1-4976b7c01b6a)
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/2282b4b6-407c-4a46-9c9c-f94b76c546cd)
-
-- Room based lobbies.Up to 9 players. Room Host can modify settings.
-- Each Player given a role and a word. Spy has to guess the word.
-- Voting system
-
 What I did: Built and shipped a game on a two-person team. Wrote all code engine side and network. Designed all Gameplay.
 
-Studio: TeamWiiw
-Platforms: WebGL. Any browser.
-Team size: 2
-Engine & Tools: Unity, Photon API.
+Studio: TeamWiiw <br>
+Platforms: WebGL, Any browser <br>
+Team size: 2 <br>
+Engine & Tools: Unity, Photon API, Visual Studio 
 
 ## Slap Cook
 
 [![Foo](/images/SlapCook.png)](https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook)
 
 <br>
+- Hyper Casual Game. 
+- Simple controls: One Finger, left to right.
+- Level-based progression. Main Levels + 3 mini games in between levels.
+- Fast Development pace because of competitive market.
+
+What I did: Assist Lead Programmer in Programming features. Tuning and polishing gameplay quirks. Bug fixing. Asset importing.
+
+Studio: Kokoro Games <br>
+Platforms: Mobile, Android <br>
+Team size: 10+ <br>
+Engine & Tools: Unity, Visual Studio <br>
 
 ## Game for INTELLCAP
 
