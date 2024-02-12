@@ -50,7 +50,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 [![Foo](https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984)](https://teamwiiw.itch.io/secret-assignment)
 <br>
-- Multiplayer Party game on browser.
+- Online Multiplayer Party game on browser.
 - Mafia/Among Us like Gameplay. Role Assignement, Voting on the odd one out.<br>
 - Room based lobbies.Up to 9 players. Room Host can modify settings.<br> 
 - Each Player given a role and a word. Spy has to guess the word.<br>
@@ -96,11 +96,10 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ## Moment 
 
-[![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment)
-<br>
+[![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment) <br>
 - Traversal and object avoidance, with synchronized music, 5 stages.
 - 30min experience.
-<br><br>
+
 **What I did:** Game Programming, Game Design
 
 **Studio:** High School Project <br>
