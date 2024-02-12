@@ -23,17 +23,16 @@ Current Project | [Demo out now on Steam](https://store.steampowered.com/app/270
 <br>
 <br>
 
-Studio: Self-Published
-Platforms: PC
-Team size: 1
-Engine & Tools: Unity, Visual Studio,Blender, FMOD, Reason, Aseprite
-Year: 2024
+**Studio:** Self-Published <br>
+**Platforms:** PC <br>
+**Team size:** 1 <br>
+**Engine & Tools:** Unity, Visual Studio,Blender, FMOD, Reason, Aseprite <br>
+**Year:** 2024 <br>
 
 ## Editor Tool for Level Design
 
 [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)
 
-<br>
 - Editor Tool that eases object placement on planet like objects.
 
 ![224733608-1ef22a40-e318-48d6-be9c-c8951da7131e](https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec)
@@ -49,13 +48,13 @@ Year: 2024
 - Each Player given a role and a word. Spy has to guess the word.<br>
 - Voting system. <br>
 
-What I did: Built and shipped a game on a two-person team. Wrote all code engine side and network. Designed all Gameplay.
+**What I did:** Built and shipped a game on a two-person team. Wrote all code engine side and network. Game Design. Writing.
 
-Studio: TeamWiiw <br>
-Platforms: WebGL, Any browser <br>
-Team size: 2 <br>
-Engine & Tools: Unity, Photon API, Visual Studio <br>
-Year: 2023
+**Studio:** TeamWiiw <br>
+**Platforms:** WebGL, Any browser <br>
+**Team size:** 2 <br>
+**Engine & Tools:** Unity, Photon API, Visual Studio <br>
+**Year:** 2023
 
 ## Slap Cook
 
@@ -66,25 +65,25 @@ Year: 2023
 - Level-based progression. Main Levels + 3 mini games in between levels.
 - Fast Development pace because of competitive market.
 
-What I did: Assist Lead Programmer in Programming features. Tuning and polishing gameplay quirks. Bug fixing. Asset importing.
+**What I did:** Assist Lead Programmer in Programming features. Tuning and polishing gameplay quirks. Bug fixing. Asset importing.
 
-Studio: Kokoro Games <br>
-Platforms: Mobile, Android <br>
-Team size: 10+ <br>
-Engine & Tools: Unity, Visual Studio <br>
-Year: 2022
+**Studio:** Kokoro Games <br>
+**Platforms:** Mobile, Android <br>
+**Team size:** 10+ <br>
+**Engine & Tools:** Unity, Visual Studio <br>
+**Year:** 2022
 
 ## Game for INTELLCAP
 
 3D Project (unable to show)
 
-What I did: Gameplay Programmer under Lead Programmer.
+**What I did:** Gameplay Programmer under Lead Programmer.
 
-Studio: INTELLCAP <br>
-Platforms: PC
-Team size: 15+ <br>
-Engine & Tools: Unity, Visual Studio <br>
-Year: 2021
+**Studio:** INTELLCAP <br>
+**Platforms:** PC
+**Team size:** 15+ <br>
+**Engine & Tools:** Unity, Visual Studio <br>
+**Year:** 2021
 <br>
 
 ## Moment 
@@ -95,13 +94,13 @@ Year: 2021
 First Game I've ever made. :D
 Traversal and object avoidance, 5 stages.
 
-What I did: Game Programming, Game Design
+**What I did:** Game Programming, Game Design
 
-Studio: High School Project <br>
-Platforms: PC
-Team size: 2 <br>
-Engine & Tools: Unity, Visual Studio <br>
-Year: 2017
+**Studio:** High School Project <br>
+**Platforms:** PC
+**Team size:** 2 <br>
+**Engine & Tools:** Unity, Visual Studio <br>
+**Year:** 2017
 
 ---
 # Game Jams & Prototypes
@@ -124,7 +123,7 @@ Year: 2017
 [![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/my-friends-game)
 <br>
 # CONTACT
-Feel free to message me on: [ziadrbai@gmail.com](mailto:ziadrbai@gmail.com) <br>
+Feel free to message me on:<br> [ziadrbai@gmail.com](mailto:ziadrbai@gmail.com) <br>
 [itch.io](https://ziadrbai.itch.io/) <br>
 [Steam](https://store.steampowered.com/search/?sort_by=_ASC&supportedlang=english&developer=Ziad+Rbai)<br>
 [Github](https://github.com/ZiadRbai)
