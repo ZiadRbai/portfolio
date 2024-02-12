@@ -6,7 +6,7 @@
 ## The Andesia Project
 Current Project | [Demo out now on Steam](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 
-![The Andesia Project](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
+[![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 
 <br>
 
