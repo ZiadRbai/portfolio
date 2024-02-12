@@ -50,7 +50,6 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <img src="https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984" alt="Secret Assignment Thumbnail" width="300"/>
 </a>
 
-<br>
 - Multiplayer Party game on browser.
 - Mafia/Among Us like Gameplay. Role Assignement, Voting on the odd one out.<br>
 - Room based lobbies.Up to 9 players. Room Host can modify settings.<br> 
@@ -67,7 +66,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ## Slap Cook
 
-<!---[![Foo](/images/SlapCook.png)](https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook)--> <br>
+<!---[![Foo](/images/SlapCook.png)](https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook)-->
 
 <a href= "https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook">
 <img src="/images/SlapCook.png" alt="Slap Cook Thumbnail" width="300"/>
@@ -106,7 +105,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 </a>
 
 <!---[![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment)-->
-<br>
+<br><br>
 - Traversal and object avoidance, with synchronized music, 5 stages.
 - 30min experience.
 <br><br>
@@ -120,25 +119,26 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ---
 # Game Jams & Prototypes
-### Game Mechanic study on Unreal Engine
+### Game Mechanic study on Unreal Engine <br>
 <!---[![Foo](/images/Raze.png)](https://ziadrbai.itch.io/raze-satchel)-->
 <a href= "https://ziadrbai.itch.io/raze-satchel">
 <img src="/images/Raze.png" alt="Raze Thumbnail" width="300"/>
 </a>
 <br>
-### GMTK 48H Game Jam 2022 Entry 
+### GMTK 48H Game Jam 2022 Entry <br>
 <!---[![Foo](/images/DiceStamp.png)](https://maruwiiw.itch.io/dice-stamp)-->
 <a href= "https://maruwiiw.itch.io/dice-stamp">
 <img src="/images/DiceStamp.png" alt="Dice Stamp Thumbnail" width="300"/>
 </a>
 <br>
-### MiniJam 72H Game Jam 2022 Entry
+### MiniJam 72H Game Jam 2022 Entry <br>
 <!---[![Foo](/images/MeowEscape.png)](https://ziadrbai.itch.io/meow-escape)-->
 <a href= "https://ziadrbai.itch.io/meow-escape">
 <img src="/images/MeowEscape.png" alt="Meow Excape Thumbnail" width="300"/>
 </a>
 <br>
-### Mini Jame Gam 48H 2022 Entry
+### Mini Jame Gam 48H 2022 Entry <br>
+
 <!---[![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/my-friends-game)-->
 <a href= "https://ziadrbai.itch.io/my-friends-game">
 <img src="/images/MyFriendsGame.png" alt="My Friend's Game Thumbnail" width="300"/>
