@@ -40,19 +40,13 @@ Engine & Tools: Unity, Visual Studio,Blender, FMOD, Reason, Aseprite
 
 ## Secret Assignment
 
-[![Foo](/images/SecretAssignment.png)](https://teamwiiw.itch.io/secret-assignment)
+[![Foo](https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984)](https://teamwiiw.itch.io/secret-assignment)
 <br>
-
 - Multiplayer Party game on browser.
 - Mafia/Among Us like Gameplay. Role Assignement, Voting on the odd one out.<br>
-![SecretGif](https://github.com/ZiadRbai/porfolio/assets/73894693/cdd5a6ba-c924-4a8a-b0db-b9b4d5616ff1) <br>
-
 - Room based lobbies.Up to 9 players. Room Host can modify settings.<br> 
 - Each Player given a role and a word. Spy has to guess the word.<br>
 - Voting system. <br>
-
-
-<br>
 
 What I did: Built and shipped a game on a two-person team. Wrote all code engine side and network. Designed all Gameplay.
 
