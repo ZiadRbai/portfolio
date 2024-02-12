@@ -7,10 +7,7 @@
 [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 <br>
 Current Active Project | [**Demo out now on Steam**](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
-<br>
-- First-Person Space Horror Game with Physics-based Gameplay and PS1 style graphics.
-<br>
-- Physics system supports multiple gravitational objects, spinning objects, gradual gravity dependant on distance to center etc...
+
 
 
 
@@ -18,16 +15,20 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <source src="images/Gameplay Trailer 2.mp4 " type="video/mp4">
 </video>
 **GAMEPLAY TRAILER**
-
-
+<br>
+- First-Person Space Horror Game with Physics-based Gameplay and PS1 style graphics.
+<br>
+- Physics system supports multiple objects, spinning Planets, gravity stronger at the center, granularly weaker towards the edge etc...
 <br>
 - Optimized to run high fps (at least 60 even on low end integrated gpu PCs), no performance issues reported.
 <br>
 - Knowledge based puzzles to solve with gameplay, no fighting, exploration à la Outer Wilds.
 <br>
-- In-depth story, interesting characters, ambiguous mystery to piece together.
+- In-depth story, interesting characters, compeling mystery to be pieced together.
 <br>
-- Responsible for entire development process, including Programming, Game Design, Audio Creation and Design, 3d Modeling, Texturing, UI, Writing, etc...
+<br>
+
+**What I did:** Responsible for entire development process, including Programming, Game Design, Audio Creation and Design, 3d Modeling, Texturing, UI, Writing, Video Editing, Publishing etc...
 <br>
 <br>
 
