@@ -10,7 +10,7 @@ Current Project | [Demo out now on Steam](https://store.steampowered.com/app/270
 
 <br>
 
-- First-Person Space Horror Game with Physics-based Gameplay and PsX graphics.
+- First-Person Space Horror Game with Physics-based Gameplay and PS1 style graphics.
 <br>
 
 ![Physics-Based Gameplay](/images/Andesia_Physics.gif)
@@ -32,6 +32,10 @@ Current Project | [Demo out now on Steam](https://store.steampowered.com/app/270
 [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)
 
 <br>
+
+![224733608-1ef22a40-e318-48d6-be9c-c8951da7131e](https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec)
+
+
 
 ## Secret Assignment
 
