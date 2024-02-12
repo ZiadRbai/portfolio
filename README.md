@@ -43,14 +43,25 @@ Engine & Tools: Unity, Blender, FMOD, Reason, Aseprite
 <br>
 
 - Room based lobbies.Up to 9 players. Room Host can modify settings.
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/6dcaacc2-9f3c-4fbe-94af-2c5f678622de)
+![image](https://github.com/ZiadRbai/porfolio/assets/73894693/4b16d71b-b129-45ff-b15d-ea973df22d33)
+
 
 - Each Player given a role and a word. Spy has to guess the word.
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/9c3c0db5-0514-4dec-9e65-962e3e94201d)
+![image](https://github.com/ZiadRbai/porfolio/assets/73894693/db459195-2639-458a-83f1-4976b7c01b6a)
+
 
 - Voting system
-![image](https://github.com/ZiadRbai/porfolio/assets/73894693/62bc258b-d689-4ee5-ac2a-475603845775)
+![image](https://github.com/ZiadRbai/porfolio/assets/73894693/2282b4b6-407c-4a46-9c9c-f94b76c546cd)
 
+<br>
+
+![image](https://github.com/ZiadRbai/porfolio/assets/73894693/4b16d71b-b129-45ff-b15d-ea973df22d33)
+![image](https://github.com/ZiadRbai/porfolio/assets/73894693/db459195-2639-458a-83f1-4976b7c01b6a)
+![image](https://github.com/ZiadRbai/porfolio/assets/73894693/2282b4b6-407c-4a46-9c9c-f94b76c546cd)
+
+- Room based lobbies.Up to 9 players. Room Host can modify settings.
+- Each Player given a role and a word. Spy has to guess the word.
+- Voting system
 
 What I did: Built and shipped a game on a two-person team. Wrote all code engine side and network. Designed all Gameplay.
 
