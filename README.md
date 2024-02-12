@@ -8,7 +8,7 @@
 
 Current Active Project | [**Demo out now on Steam**](https://store.steampowered.com/app/2709770/The_Andesia_Project/)
 
-<video controls="" width="640" height="360"  loop="" autoplay="">
+<video controls="" width="80%"  loop="" autoplay="">
 <source src="images/Gameplay Trailer 2.mp4 " type="video/mp4">
 </video>
 **GAMEPLAY TRAILER**
@@ -29,10 +29,10 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <br>
 <br>
 
-**Studio:** Self-Published <br>
-**Platforms:** PC <br>
+
+**Platforms:** PC (Steam) <br>
 **Team size:** 1 <br>
-**Engine & Tools:** Unity, Visual Studio,Blender, FMOD, Reason, Aseprite <br>
+**Engine & Tools:** Unity, Visual Studio, Blender, FMOD, Reason, Aseprite <br>
 **Year:** 2023-Present <br>
 
 ## Editor Tool for Level Design
@@ -71,7 +71,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 - Level-based progression. Main Levels + 3 mini games in between levels.
 - Fast Development pace because of competitive market.
 
-**What I did:** Assist Lead Programmer in Programming features. Tuning and polishing gameplay quirks. Bug fixing. Asset importing.
+**What I did:** Assist Lead Programmer in Programming features. Gameplay Programming (Movement, Obstacles, Flashy effects). Bug fixing. Asset importing.
 
 **Studio:** Kokoro Games <br>
 **Platforms:** Mobile, Android <br>
