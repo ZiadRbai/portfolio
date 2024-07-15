@@ -35,7 +35,8 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 ## Editor Tool for Level Design
 
-[![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qW77sJHDSWM/0.jpg)](https://www.youtube.com/watch?v=qW77sJHDSWM)
+<!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 
 - Editor Tool that eases object placement on planet like objects.
 
