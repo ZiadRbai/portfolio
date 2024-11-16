@@ -9,7 +9,7 @@
 <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp" width="35%"/>
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 
-[![Video Title](<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp" width="35%"/>)](https://www.youtube.com/watch?v=VIiwTSf8jqs)
+[![IMAGE ALT TEXT HERE](images/ShadowMeter.gif)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
 
 ## The Andesia Project
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
