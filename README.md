@@ -15,7 +15,7 @@
 **Team size:** 1 <br>
 **Engine & Tools:** Unity, Visual Studio, Aseprite <br>
 **Year:** 2024 <br>
-
+---
 ## The Andesia Project
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
@@ -48,6 +48,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio, Blender, FMOD, Reason, Aseprite <br>
 **Year:** 2023-Present <br>
 <br>
+---
 ## Editor Tool for Level Design (Unity Asset Store)
   
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qW77sJHDSWM/0.jpg)](https://assetstore.unity.com/packages/tools/level-design/better-transform-for-spheres-249039)
@@ -56,13 +57,13 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 <img src="https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec" alt="Demonstration" width="90%"/>
 <br>
+
 **Platforms:** Unity <br>
 **Team size:** 1 <br>
 **Engine & Tools:** Unity, Visual Studio, Aseprite <br>
 **Year:** 2024 <br>
-
 <br>
-
+---
 ## Secret Assignment
 
 [![Foo](https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984)](https://teamwiiw.itch.io/secret-assignment)
