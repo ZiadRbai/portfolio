@@ -16,7 +16,6 @@
 **Engine & Tools:** Unity, Visual Studio, Aseprite <br>
 **Year:** 2024 <br>
 
-<br>
 ## The Andesia Project
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
@@ -41,7 +40,6 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <br>
 
 **What I did:** Responsible for entire development process, including Programming, Game Design, Audio Creation and Design, 3d Modeling, Texturing, UI, Writing, Video Editing, Publishing etc...
-<br>
 <br>
 
 
