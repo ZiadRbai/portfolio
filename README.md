@@ -81,7 +81,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Team size:** 2 <br>
 **Engine & Tools:** Unity, Photon API, Visual Studio <br>
 **Year:** 2023
-
+---
 ## Slap Cook
 
 [![Foo](/images/SlapCook.png)](https://play.google.com/store/apps/details?id=com.KokoroGames.SlapCook) <br>
@@ -98,7 +98,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Team size:** 10+ <br>
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2022
-
+---
 ## Game for INTELLCAP
 
 **3D Project (unable to show)**
@@ -111,7 +111,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2021
 <br>
-
+---
 ## Moment 
 
 [![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment) <br>
@@ -126,7 +126,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2017
 
-
+---
 # Game Jams & Prototypes
 ---
 ### Game Mechanic study on Unreal Engine
