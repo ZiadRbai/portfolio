@@ -14,7 +14,6 @@
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2024 <br>
 ---
-## The 
 
 ## Shadow Meter - Light Detection [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
 
