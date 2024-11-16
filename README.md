@@ -63,8 +63,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <br>
 ---
 ## Editor Tool for Level Design  [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/level-design/better-transform-for-spheres-249039)
-  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qW77sJHDSWM/0.jpg)](https://assetstore.unity.com/packages/tools/level-design/better-transform-for-spheres-249039)
+
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 - Editor Tool that greatly simplifies Level design on spherical surfaces
 
