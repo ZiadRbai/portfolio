@@ -9,7 +9,7 @@
 <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp" width="35%"/>
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 
-[![Video Title](https://img.youtube.com/vi/VIiwTSf8jqs/0.jpg)](https://www.youtube.com/watch?v=VIiwTSf8jqs)
+[![Video Title](<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp" width="35%"/>)](https://www.youtube.com/watch?v=VIiwTSf8jqs)
 
 ## The Andesia Project
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
