@@ -6,7 +6,7 @@
 
 - Editor Tool that provides real-time light exposure detection. With easy setup and customizable UI, Shadow Meter allows developers to integrate dynamic lighting effects.
 
-<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp" width="35%"/>
+<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp" width="40%"/>
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 
 [![IMAGE ALT TEXT HERE](images/ShadowMeter.gif)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
@@ -50,7 +50,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qW77sJHDSWM/0.jpg)](https://assetstore.unity.com/packages/tools/level-design/better-transform-for-spheres-249039)
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 
-<img src="https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec" alt="Demonstration" width="100%"/>
+<img src="https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec" alt="Demonstration" width="80%"/>
 
 ## Secret Assignment
 
