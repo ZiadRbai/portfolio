@@ -1,6 +1,16 @@
 
 # Portfolio
 ---
+
+## Shadow Meter - Light Detection (Unity Asset Store)
+
+- Editor Tool that provides real-time light exposure detection. With easy setup and customizable UI, Shadow Meter allows developers to integrate dynamic lighting effects.
+  
+[![IMAGE ALT TEXT HERE](https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
+<!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
+
+<img src="https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec" alt="Demonstration" width="100%"/>
+
 ## The Andesia Project
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
@@ -33,7 +43,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio, Blender, FMOD, Reason, Aseprite <br>
 **Year:** 2023-Present <br>
 
-## Editor Tool for Level Design on the Unity Asset Store
+## Editor Tool for Level Design (Unity Asset Store)
 
 - Editor Tool that greatly simplifies Level design on spherical surfaces
   
