@@ -6,7 +6,7 @@
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 - First Person Controller enabling players to seamlessly float, drift, and rotate in space. It's particularly well-suited for genres such as science fiction, space exploration, and abstract simulations.
 
-[![IMAGE ALT TEXT HERE](images/ShadowMeter.gif)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
+[![IMAGE ALT TEXT HERE](images/FirstPerson.gif)](https://assetstore.unity.com/packages/tools/game-toolkits/zero-gravity-first-person-controller-298324)
 
 <br>
 **Platforms:** Unity <br>
