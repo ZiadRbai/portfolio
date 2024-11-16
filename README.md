@@ -5,7 +5,7 @@
 ## Shadow Meter - Light Detection (Unity Asset Store)
 
 - Editor Tool that provides real-time light exposure detection. With easy setup and customizable UI, Shadow Meter allows developers to integrate dynamic lighting effects.
-  
+<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp" alt="Demonstration" width="100%"/>
 <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/9960afb0-52d4-4588-9beb-d741d174991e.webp" href="https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372" /img>
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 
