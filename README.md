@@ -10,6 +10,13 @@
 
 [![IMAGE ALT TEXT HERE](images/ShadowMeter.gif)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
 
+<br>
+**Platforms:** Unity <br>
+**Team size:** 1 <br>
+**Engine & Tools:** Unity, Visual Studio, Aseprite <br>
+**Year:** 2024 <br>
+
+<br>
 ## The Andesia Project
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
@@ -18,6 +25,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <video controls="" width="100%"  loop="" autoplay="">
 <source src="images/Gameplay Trailer 2.mp4 " type="video/mp4">
 </video>
+
 **GAMEPLAY TRAILER**
 <br>
 - First-Person Space Horror Game with Physics-based Gameplay and PS1 style graphics.
@@ -41,7 +49,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Team size:** 1 <br>
 **Engine & Tools:** Unity, Visual Studio, Blender, FMOD, Reason, Aseprite <br>
 **Year:** 2023-Present <br>
-
+<br>
 ## Editor Tool for Level Design (Unity Asset Store)
   
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qW77sJHDSWM/0.jpg)](https://assetstore.unity.com/packages/tools/level-design/better-transform-for-spheres-249039)
@@ -49,6 +57,13 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 - Editor Tool that greatly simplifies Level design on spherical surfaces
 
 <img src="https://github.com/ZiadRbai/porfolio/assets/73894693/43018155-ac26-4b51-aa97-c3acaf7b92ec" alt="Demonstration" width="90%"/>
+<br>
+**Platforms:** Unity <br>
+**Team size:** 1 <br>
+**Engine & Tools:** Unity, Visual Studio, Aseprite <br>
+**Year:** 2024 <br>
+
+<br>
 
 ## Secret Assignment
 
