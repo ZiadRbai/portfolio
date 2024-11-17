@@ -1,34 +1,6 @@
 
 # Portfolio
 ---
-## Zero Gravity - First Person Controller [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/game-toolkits/zero-gravity-first-person-controller-298324)
-
-<!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
-- First Person Controller enabling players to seamlessly float, drift, and rotate in space. It's particularly well-suited for genres such as science fiction, space exploration, and abstract simulations.
-
-[![IMAGE ALT TEXT HERE](images/FirstPerson.gif)](https://assetstore.unity.com/packages/tools/game-toolkits/zero-gravity-first-person-controller-298324)
-
-<br>
-**Platforms:** Unity <br>
-**Team size:** 1 <br>
-**Engine & Tools:** Unity, Visual Studio <br>
-**Year:** 2024 <br>
----
-
-## Shadow Meter - Light Detection [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
-
-<!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
-- Editor Tool that provides real-time light exposure detection. With easy setup and customizable UI, Shadow Meter allows developers to integrate dynamic lighting effects. It's particularly well-suited for genres such stealth, horror, or any game where lighting plays a critical role.
-
-[![IMAGE ALT TEXT HERE](images/ShadowMeter.gif)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
-
-<br>
-**Platforms:** Unity <br>
-**Team size:** 1 <br>
-**Engine & Tools:** Unity, Visual Studio, Aseprite <br>
-**Year:** 2024 <br>
----
-
 ## The Andesia Project
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
@@ -61,6 +33,34 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio, Blender, FMOD, Reason, Aseprite <br>
 **Year:** 2023-Present <br>
 <br>
+---
+## Zero Gravity - First Person Controller [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/game-toolkits/zero-gravity-first-person-controller-298324)
+
+<!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
+- First Person Controller enabling players to seamlessly float, drift, and rotate in space. It's particularly well-suited for genres such as science fiction, space exploration, and abstract simulations.
+
+[![FirstPersonController](images/FirstPerson.gif)](https://assetstore.unity.com/packages/tools/game-toolkits/zero-gravity-first-person-controller-298324)
+
+<br>
+**Platforms:** Unity <br>
+**Team size:** 1 <br>
+**Engine & Tools:** Unity, Visual Studio <br>
+**Year:** 2024 <br>
+---
+
+## Shadow Meter - Light Detection [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
+
+<!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
+- Editor Tool that provides real-time light exposure detection. With easy setup and customizable UI, Shadow Meter allows developers to integrate dynamic lighting effects. It's particularly well-suited for genres such stealth, horror, or any game where lighting plays a critical role.
+
+[![ShadowMeter](images/ShadowMeter.gif)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
+
+<br>
+**Platforms:** Unity <br>
+**Team size:** 1 <br>
+**Engine & Tools:** Unity, Visual Studio, Aseprite <br>
+**Year:** 2024 <br>
+
 ---
 ## Editor Tool for Level Design  [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/level-design/better-transform-for-spheres-249039)
 
