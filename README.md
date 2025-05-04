@@ -7,7 +7,7 @@
 [![Atrium](images/Atrium.gif)](https://fullmoon97.itch.io/atrium)
 <br>
 
-**What I did:** Lead Programmer
+**What I did:** Lead Programmer, Game Design
 <br>
 
 **Platforms:** PC (Steam) <br>
