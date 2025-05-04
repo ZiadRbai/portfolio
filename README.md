@@ -33,6 +33,20 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio, Blender, FMOD, Reason, Aseprite <br>
 **Year:** 2023-Present <br>
 <br>
+
+---
+## Sound Meter - Stealth Audio Awareness [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/audio/sound-meter-stealth-audio-awareness-317429)
+
+<!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
+- Tool for developers needing Audio Detection for stealth, horror, or any game where sound and noise awareness are critical to gameplay.
+
+[![SoundMeter](images/Sound Meter.gif)](https://assetstore.unity.com/packages/tools/audio/sound-meter-stealth-audio-awareness-317429)
+
+<br>
+**Platforms:** Unity <br>
+**Team size:** 1 <br>
+**Engine & Tools:** Unity, Visual Studio <br>
+**Year:** 2025 <br>
 ---
 ## Zero Gravity - First Person Controller [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/game-toolkits/zero-gravity-first-person-controller-298324)
 
