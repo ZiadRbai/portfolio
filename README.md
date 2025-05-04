@@ -81,7 +81,9 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Team size:** 1 <br>
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2024 <br>
+
 ---
+
 ## Shadow Meter - Light Detection [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/behavior-ai/shadow-meter-light-detection-294372)
 
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
@@ -94,7 +96,9 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Team size:** 1 <br>
 **Engine & Tools:** Unity, Visual Studio, Aseprite <br>
 **Year:** 2024 <br>
+
 ---
+
 ## Editor Tool for Level Design  [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/level-design/better-transform-for-spheres-249039)
 
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
@@ -108,7 +112,9 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio, Aseprite <br>
 **Year:** 2024 <br>
 <br>
+
 ---
+
 ## Secret Assignment
 
 [![Foo](https://github.com/ZiadRbai/porfolio/assets/73894693/f9c6bda1-7b2e-4039-8d68-40e801c5a984)](https://teamwiiw.itch.io/secret-assignment)
@@ -143,7 +149,9 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Team size:** 10+ <br>
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2022
+
 ---
+
 ## Game for INTELLCAP
 
 **3D Project (unable to show)**
@@ -156,7 +164,9 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2021
 <br>
+
 ---
+
 ## Moment 
 
 [![Foo](/images/Moment.png)](https://ziadrbai.itch.io/moment) <br>
