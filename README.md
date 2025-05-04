@@ -7,6 +7,7 @@
 [![Atrium](images/Atrium.gif)](https://fullmoon97.itch.io/atrium)
 <br>
 Game made during the [Video Game Creator Program Lead by ISART Digital](https://moroccogamingindustry.ma/video-game-creator-program/)
+<br>
 **What I did:** Lead Programmer, Game Design
 <br>
 
