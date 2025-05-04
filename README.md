@@ -1,10 +1,9 @@
 
 # Portfolio
 ---
-## Atrium
+## Atrium [**Out on Itch**](https://fullmoon97.itch.io/atrium)
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
-[**Out on Itch**](https://fullmoon97.itch.io/atrium)
 [![Atrium](images/Atrium.gif)](https://fullmoon97.itch.io/atrium)
 <br>
 
