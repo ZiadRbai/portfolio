@@ -40,7 +40,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
 - Tool for developers needing Audio Detection for stealth, horror, or any game where sound and noise awareness are critical to gameplay.
 
-[![SoundMeter](images/Sound Meter.gif)](https://assetstore.unity.com/packages/tools/audio/sound-meter-stealth-audio-awareness-317429)
+[![SoundMeter](images/SoundMeter.gif)](https://assetstore.unity.com/packages/tools/audio/sound-meter-stealth-audio-awareness-317429)
 
 <br>
 **Platforms:** Unity <br>
