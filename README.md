@@ -4,9 +4,9 @@
 ## Atrium [**Out on Itch**](https://fullmoon97.itch.io/atrium)
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
-[![Atrium](images/Atrium.gif)](https://fullmoon97.itch.io/atrium)
-<br>
 Game made during the [Video Game Creator Program Lead by ISART Digital](https://moroccogamingindustry.ma/video-game-creator-program/)
+<br>
+[![Atrium](images/Atrium.gif)](https://fullmoon97.itch.io/atrium)
 <br>
 **What I did:** Lead Programmer, Game Design
 <br>
