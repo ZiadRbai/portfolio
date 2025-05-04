@@ -16,7 +16,9 @@ Game made during the [Video Game Creator Program Lead by ISART Digital](https://
 **Engine & Tools:** Unity, Visual Studio, FMOD <br>
 **Year:** 2025 <br>
 <br>
+
 ---
+
 ## The Andesia Project
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
@@ -49,7 +51,9 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Engine & Tools:** Unity, Visual Studio, Blender, FMOD, Reason, Aseprite <br>
 **Year:** 2023-Present <br>
 <br>
+
 ---
+
 ## Sound Meter - Stealth Audio Awareness [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/audio/sound-meter-stealth-audio-awareness-317429)
 
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
@@ -62,7 +66,9 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 **Team size:** 1 <br>
 **Engine & Tools:** Unity, Visual Studio <br>
 **Year:** 2025 <br>
+
 ---
+
 ## Zero Gravity - First Person Controller [(Unity Asset Store)](https://assetstore.unity.com/packages/tools/game-toolkits/zero-gravity-first-person-controller-298324)
 
 <!--- [![Foo](https://github-readme-stats.vercel.app/api/pin/?username=ZiadRbai&repo=Spherical-Transform-Tool)](https://github.com/ZiadRbai/Spherical-Transform-Tool)--->
