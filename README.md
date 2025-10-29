@@ -1,6 +1,25 @@
 
 # Portfolio
 ---
+## Scattered Signals [**Out on Itch**](https://isartmaroc.itch.io/scatteredsignals)
+<!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
+
+Game made during the [Video Game Creator Program Lead by ISART Digital](https://moroccogamingindustry.ma/video-game-creator-program/)
+
+<video controls="" width="100%"  loop="" autoplay="">
+<source src="images/Scattered Signals (Trailer 2025).mp4 " type="video/mp4">
+</video>
+
+**What I did:** Game Design, Programming
+<br>
+
+**Platforms:** PC <br>
+**Team size:** 6 <br>
+**Engine & Tools:** Unreal Engine 5, Visual Studio,<br>
+**Year:** 2025 <br>
+<br>
+
+---
 ## Atrium [**Out on Itch**](https://fullmoon97.itch.io/atrium)
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
