@@ -13,6 +13,7 @@ Game made during the [Video Game Creator Program Lead by ISART Digital](https://
 **What I did:** Game Design, Programming
 <br>
 
+**Genre:** Puzzle <br>
 **Platforms:** PC <br>
 **Team size:** 6 <br>
 **Engine & Tools:** Unreal Engine 5, Visual Studio,<br>
@@ -30,6 +31,7 @@ Game made during the [Video Game Creator Program Lead by ISART Digital](https://
 **What I did:** Lead Programmer, Game Design
 <br>
 
+**Genre:** Metroidvania <br>
 **Platforms:** PC (Steam) <br>
 **Team size:** 4 <br>
 **Engine & Tools:** Unity, Visual Studio, FMOD <br>
@@ -49,22 +51,11 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 **GAMEPLAY TRAILER**
 <br>
-- First-Person Space Horror Game with Physics-based Gameplay and PS1 style graphics.
-<br>
-- Physics system supports multiple objects, spinning Planets, gravity stronger at the center, granularly weaker towards the edge etc...
-<br>
-- Optimized to run high fps (at least 60 even on low end integrated gpu PCs), no performance issues reported.
-<br>
-- Knowledge based puzzles to solve with gameplay, no fighting, exploration à la Outer Wilds.
-<br>
-- In-depth story, interesting characters, compeling mystery to be pieced together.
-<br>
-<br>
 
 **What I did:** Responsible for entire development process, including Programming, Game Design, Audio Creation and Design, 3d Modeling, Texturing, UI, Writing, Video Editing, Publishing etc...
 <br>
 
-
+**Genre:** Puzzle, Story, Horror <br>
 **Platforms:** PC (Steam) <br>
 **Team size:** 1 <br>
 **Engine & Tools:** Unity, Visual Studio, Blender, FMOD, Reason, Aseprite <br>
@@ -146,7 +137,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 **What I did:** Built and shipped a game on a two-person team. Wrote all code engine side and network. Game Design. Writing.
 
-**Studio:** TeamWiiw <br>
+**Genre:** Party Game <br>
 **Platforms:** WebGL, Any browser <br>
 **Team size:** 2 <br>
 **Engine & Tools:** Unity, Photon API, Visual Studio <br>
@@ -177,6 +168,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 **What I did:** Gameplay Programmer under Lead Programmer.
 
+**Genre:** Educational <br>
 **Studio:** INTELLCAP <br>
 **Platforms:** PC
 **Team size:** 15+ <br>
@@ -194,6 +186,7 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 
 **What I did:** Game Programming, Game Design
 
+**Genre:** Abstract <br>
 **Studio:** High School Project <br>
 **Platforms:** PC
 **Team size:** 2 <br>
@@ -206,18 +199,22 @@ Current Active Project | [**Demo out now on Steam**](https://store.steampowered.
 ### Game Mechanic study on Unreal Engine
 ---
 [![Foo](/images/Raze.png)](https://ziadrbai.itch.io/raze-satchel)
+**Genre:** Study <br>
 <br>
 ### GMTK 48H Game Jam 2022 Entry 
 ---
 [![Foo](/images/DiceStamp.png)](https://maruwiiw.itch.io/dice-stamp)
+**Genre:** Puzzle <br>
 <br>
 ### MiniJam 72H Game Jam 2022 Entry
 ---
 [![Foo](/images/MeowEscape.png)](https://ziadrbai.itch.io/meow-escape)
+**Genre:** Rhythm <br>
 <br>
 ### Mini Jame Gam 48H 2022 Entry
 ---
 [![Foo](/images/MyFriendsGame.png)](https://ziadrbai.itch.io/my-friends-game)
+**Genre:** Platformer <br>
 <br>
 # CONTACT
 ---
