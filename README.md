@@ -1,6 +1,24 @@
 
 # Portfolio
 ---
+## Amalu, Wells Between Worlds [**Steam Page**](https://isartmaroc.itch.io/scatteredsignals](https://store.steampowered.com/app/4336860/Amalu_Wells_between_worlds)
+<!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
+
+<video controls="" width="100%"  loop="" autoplay="">
+<source src="images/Amalu Prototype Trailer (1).mp4 " type="video/mp4">
+</video>
+
+**What I did:** Game Programming, Game Design, Sound Design
+<br>
+
+**Genre:** Metroidvania <br>
+**Platforms:** PC <br>
+**Team size:** 4 <br>
+**Engine & Tools:** Unity, Visual Studio,<br>
+**Year:** 2026 <br>
+<br>
+
+---
 ## Scattered Signals [**Out on Itch**](https://isartmaroc.itch.io/scatteredsignals)
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
