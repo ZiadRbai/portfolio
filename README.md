@@ -1,7 +1,7 @@
 
 # Portfolio
 ---
-## Amalu, Wells Between Worlds [**Steam Page**]([https://isartmaroc.itch.io/scatteredsignals](https://store.steampowered.com/app/4336860/Amalu_Wells_between_worlds])
+## Amalu, Wells Between Worlds [**Steam Page**](https://store.steampowered.com/app/4336860/Amalu_Wells_between_worlds)
 <!--- [![Foo](/images/Andesia_400.png)](https://store.steampowered.com/app/2709770/The_Andesia_Project/) -->
 
 <video controls="" width="100%"  loop="" autoplay="">
